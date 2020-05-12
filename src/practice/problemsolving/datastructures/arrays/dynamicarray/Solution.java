@@ -25,6 +25,7 @@ public class Solution {
          * Write your code here.
          */
       // Person should be fucking shot for wording the problem like he did. 
+        //FUCKING YES
       List<Integer>[] seqList = new List[n];
       int lastAnswer = 0;
       List<Integer> results = new ArrayList<>();
